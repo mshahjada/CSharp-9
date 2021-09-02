@@ -1,0 +1,16 @@
+C:\BS-23\Sample Git\CSharp9\CSharp9\bin\Debug\net5.0\CSharp9.exe
+C:\BS-23\Sample Git\CSharp9\CSharp9\bin\Debug\net5.0\CSharp9.deps.json
+C:\BS-23\Sample Git\CSharp9\CSharp9\bin\Debug\net5.0\CSharp9.runtimeconfig.json
+C:\BS-23\Sample Git\CSharp9\CSharp9\bin\Debug\net5.0\CSharp9.runtimeconfig.dev.json
+C:\BS-23\Sample Git\CSharp9\CSharp9\bin\Debug\net5.0\CSharp9.dll
+C:\BS-23\Sample Git\CSharp9\CSharp9\bin\Debug\net5.0\ref\CSharp9.dll
+C:\BS-23\Sample Git\CSharp9\CSharp9\bin\Debug\net5.0\CSharp9.pdb
+C:\BS-23\Sample Git\CSharp9\CSharp9\obj\Debug\net5.0\CSharp9.csproj.AssemblyReference.cache
+C:\BS-23\Sample Git\CSharp9\CSharp9\obj\Debug\net5.0\CSharp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\BS-23\Sample Git\CSharp9\CSharp9\obj\Debug\net5.0\CSharp9.AssemblyInfoInputs.cache
+C:\BS-23\Sample Git\CSharp9\CSharp9\obj\Debug\net5.0\CSharp9.AssemblyInfo.cs
+C:\BS-23\Sample Git\CSharp9\CSharp9\obj\Debug\net5.0\CSharp9.csproj.CoreCompileInputs.cache
+C:\BS-23\Sample Git\CSharp9\CSharp9\obj\Debug\net5.0\CSharp9.dll
+C:\BS-23\Sample Git\CSharp9\CSharp9\obj\Debug\net5.0\ref\CSharp9.dll
+C:\BS-23\Sample Git\CSharp9\CSharp9\obj\Debug\net5.0\CSharp9.pdb
+C:\BS-23\Sample Git\CSharp9\CSharp9\obj\Debug\net5.0\CSharp9.genruntimeconfig.cache
